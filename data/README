@@ -1,1 +1,9 @@
 All data collected from https://www.epa.gov/outdoor-air-quality-data/download-daily-data. 
+
+PM2.5 are particals less than 2.5 micrometers.  These consist of toxic organic compounds and 
+heavy metals. They are made from automobile exhaust, burning garbage and landfill, smelting and 
+processing of metals. 
+
+PM10 are particples between 2.5 and 10 micrometers. These consist of smoke, dirt and dust from 
+factories, farming and roads as well as mold, spores and pollen. They are made from crushing 
+and grinding rocks and soil then blown by wind. 
